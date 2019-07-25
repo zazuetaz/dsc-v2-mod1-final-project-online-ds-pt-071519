@@ -4,7 +4,7 @@
 
 ## Introduction
 
-In this lesson, we'll review all of the guidelines and specifications for the final project for Module 1. 
+In this lesson, we'll review all of the guidelines and specifications for the final project for Module 1.
 
 ## Objectives
 You will be able to:
@@ -15,7 +15,7 @@ You will be able to:
 
 ## Final Project Summary
 
-You've made it all the way through the first module of this course - take a minute to celebrate your awesomeness! 
+You've made it all the way through the first module of this course - take a minute to celebrate your awesomeness!
 
 ![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-v2-mod1-final-project/master/awesome.gif)
 
@@ -23,11 +23,11 @@ All that remains in Module 1 is to put our newfound data science skills to use w
 
 ## The Dataset
 
-For this project, you'll be working with the King County House Sales dataset. We've modified the dataset to make it a bit more fun and challenging.  The dataset can be found in the file `"kc_house_data.csv"`, in this repo. 
+For this project, you'll be working with the King County House Sales dataset. We've modified the dataset to make it a bit more fun and challenging.  The dataset can be found in the file `"kc_house_data.csv"`, in this repo.
 
 The description of the column names can be found in the column_names.md file in this repository. As with most real world data sets, the column names are not perfectly described, so you'll have to do some research or use your best judgment if you have questions relating to what the data means.
 
-You'll clean, explore, and model this dataset with a multivariate linear regression to predict the sale price of houses as accurately as possible. 
+You'll clean, explore, and model this dataset with a multivariate linear regression to predict the sale price of houses as accurately as possible.
 
 ## The Deliverables
 
@@ -35,7 +35,7 @@ There will be four  deliverables for this project:
 
 1. A well documented **Jupyter Notebook** containing any code you've written for this project and comments explaining it. This work will need to be pushed to your GitHub repository in order to submit your project.  
 2. A short **Keynote/PowerPoint/Google Slides presentation** (delivered as a PDF export) giving a high-level overview of your methodology and recommendations for non-technical stakeholders. Make sure to also add and commit this pdf of your non-technical presentation to your repository with a file name of presentation.pdf.
-3. **A blog post** (800-1500 words) about one element of the project - it could be the EDA, the feature selection, the choice of visualizations or anything else technical relating to the project. It should be targeted at your peers - aspiring data scientists.	
+3. **[A Blog Post](https://github.com/learn-co-curriculum/dsc-welcome-blogging)**	
 4. A **Video Walkthrough** of your non-technical presentation. Some common video recording tools used are Zoom, Quicktime, and Nimbus. After you record your presentation, publish it on a service like YouTube or Google Drive, you will need a link to the video to submit your project.
 
 ## The Process
@@ -58,7 +58,7 @@ Project reviews are focused on preparing you for technical interviews. Treat pro
 
 The project review is comprised of a 45 minute 1:1 session with one of the instructors. During your project review, be prepared to:
 
-#### 1. Deliver your PDF presentation to a non-technical stakeholder. 
+#### 1. Deliver your PDF presentation to a non-technical stakeholder.
 In this phase of the review (~10 mins) your instructor will play the part of a non-technical stakeholder that you are presenting your findings to. The presentation should not exceed 5 minutes, giving the "stakeholder" 5 minutes to ask questions.
 
 In the first half of the presentation (2-3 mins), you should summarize your methodology in a way that will be comprehensible to someone with no background in data science and that will increase their confidence in you and your findings. In the second half (the remaining 2-3 mins) you should summarize your findings and be ready to answer a couple of non-technical questions from the audience. The questions might relate to technical topics (sampling bias, confidence, etc) but will be asked in a non-technical way and need to be answered in a way that does not assume a background in statistics or machine learning. You can assume a smart, business stakeholder, with a non-quantitative college degree.
@@ -86,7 +86,7 @@ What won't happen:
 * You won't be put on the spot without support
 * There's nothing you can do to instantly fail or blow it
 
-**Please note: We need to receive the URL of your repository at least 24 hours before and please have the project finished at least 3 hours before your review so we can look at your materials in advance.** 
+**Please note: We need to receive the URL of your repository at least 24 hours before and please have the project finished at least 3 hours before your review so we can look at your materials in advance.**
 
 
 ## Requirements
@@ -101,15 +101,15 @@ For this project, your Jupyter Notebook should meet the following specifications
 
 * The notebook should be well organized, easy to follow,  and code should be commented where appropriate.  
     * Level Up: The notebook contains well-formatted, professional looking markdown cells explaining any substantial code.  All functions have docstrings that act as professional-quality documentation
-* The notebook is written for technical audiences with a way to both understand your approach and reproduce your results. The target audience for this deliverable is other data scientists looking to validate your findings. 
+* The notebook is written for technical audiences with a way to both understand your approach and reproduce your results. The target audience for this deliverable is other data scientists looking to validate your findings.
 
 #### Visualizations & EDA
 
 * Your project contains at least 4 meaningful data visualizations, with corresponding interpretations. All visualizations are well labeled with axes labels, a title, and a legend (when appropriate)  
-* You pose at least 3 meaningful questions and answer them through EDA.  These questions should be well labeled and easy to identify inside the notebook. 
+* You pose at least 3 meaningful questions and answer them through EDA.  These questions should be well labeled and easy to identify inside the notebook.
     * **Level Up**: Each question is clearly answered with a visualization that makes the answer easy to understand.   
 * Your notebook should contain 1 - 2 paragraphs briefly explaining your approach to this project.
-    
+
 #### Model Quality/Approach
 
 * Your model should not include any predictors with p-values greater than .05.  
@@ -121,12 +121,12 @@ For this project, your Jupyter Notebook should meet the following specifications
 
 ### 2. Non-Technical Presentation Must-Haves
 
-The second deliverable should be a Keynote, PowerPoint or Google Slides presentation delivered as a pdf file in your fork of this repository with the file name of `presentation.pdf` detailing the results of your project.  Your target audience is non-technical people interested in using your findings to maximize their profit when selling their home. 
+The second deliverable should be a Keynote, PowerPoint or Google Slides presentation delivered as a pdf file in your fork of this repository with the file name of `presentation.pdf` detailing the results of your project.  Your target audience is non-technical people interested in using your findings to maximize their profit when selling their home.
 
 Your presentation should:
 
 * Contain between 5 - 10 professional-quality slides.  
-    * **Level Up**: The slides should use visualizations whenever possible, and avoid walls of text. 
+    * **Level Up**: The slides should use visualizations whenever possible, and avoid walls of text.
 * Take no more than 5 minutes to present.   
 * Avoid technical jargon and explain the results in a clear, actionable way for non-technical audiences.   
 
@@ -134,7 +134,7 @@ Your presentation should:
 
 ### 3. Blog Post
 
-Please also write a blog post about one element of the project - it could be the EDA, the feature selection, the choice of visualizations or anything else technical relating to the project. It should be between 800-1500 words and should be targeted at your peers - aspiring data scientists.
+Refer back to the [Blogging Guidelines](https://github.com/learn-co-curriculum/dsc-welcome-blogging) for the technical requirements and blog ideas.
 
 ## Submitting your Project
 
@@ -155,4 +155,3 @@ The end of module projects and project reviews are a critical part of the progra
 The projects are serious and important. They are not graded, but they can be passed and they can be failed. Take the project seriously, put the time in, ask for help from your peers or instructors early and often if you need it, and treat the review as a job interview and you'll do great. We're rooting for you to succeed and we're only going to ask you to take a review again if we believe that you need to. We'll also provide open and honest feedback so you can improve as quickly and efficiently as possible.
 
 Finally, this is your first project. We don't expect you to remember all of the terms or to get all of the answers right. If in doubt, be honest. If you don't know something, say so. If you can't remember it, just say so. It's very unusual for someone to complete a project review without being asked a question they're unsure of, we know you might be nervous which may affect your performance. Just be as honest, precise and focused as you can be, and you'll do great!
-
