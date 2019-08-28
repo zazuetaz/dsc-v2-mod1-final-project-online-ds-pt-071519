@@ -10,6 +10,7 @@ The repository contains the following:
 * drivers.png - a graphic used for the presentation
 * presentation.pdf - a PDF of the non-technical presentation
 * Zip_Codes.geojson - a GeoJSON file pulled from the web to use for a map viz that never made it into the presentation. I've left it in on the off chance I get to come back to this project in the future.
+* Zazueta_Mod1 Project.mp4 - the video walk through of the non-technical presentation.
 
 ### Additional Notes
 The contents of the JN will provide the reader with full context of my approach to the project.
