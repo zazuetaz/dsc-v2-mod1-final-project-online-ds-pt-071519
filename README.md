@@ -6,7 +6,7 @@ The goal of this project was to utilize the material on Linear Regression Covere
 ### Contents of the Repository
 The repository contains the following:
 * A folder named 'Provided Materials'. Those are the materials provided for the project, including the original data set.
-* student.ipbny - the Jupyter Notebook I used to write my code for the project.
+* student-FinalSubmission.ipbny - the Jupyter Notebook I used to write my code for the project.
 * drivers.png - a graphic used for the presentation
 * presentation.pdf - a PDF of the non-technical presentation
 * Zip_Codes.geojson - a GeoJSON file pulled from the web to use for a map viz that never made it into the presentation. I've left it in on the off chance I get to come back to this project in the future.
